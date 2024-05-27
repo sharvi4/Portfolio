@@ -1,3 +1,8 @@
+After refining my portfolio, I have set it to display only the Navbar and Footer initially. To view the full portfolio, click on "Sharvina" at the top right corner of the Navbar, which will navigate you to the home page.
+
+A clean, beautiful and simple responsive portfolio template for Software Developers!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
